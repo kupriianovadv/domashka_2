@@ -3,22 +3,10 @@
 // 2, 4 -> 16
 
 Console.WriteLine("Введите число A: ");
-Console.WriteLine("Введите число B: ");
 int numA = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите число B: ");
 int numB = Convert.ToInt32(Console.ReadLine());
 
+double result = Math.Pow(numA,numB);
 
-Console.WriteLine("Число А в степени числа В = " + GetSquare());
-
-int GetSquare(int num)
-{
-    int square = 0;
-    int count = 0;
-
-    while (square>count)
-    {
-        count++;
-        square = A*B;
-    }
-    return square;
-}
+Console.WriteLine("Число А в степени числа В = " + result);
