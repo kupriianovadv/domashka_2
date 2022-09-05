@@ -7,6 +7,14 @@ int numA = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число B: ");
 int numB = Convert.ToInt32(Console.ReadLine());
 
-double result = Math.Pow(numA,numB);
+// double result = Math.Pow(numA,numB);
+int count = 1;
+int result = 1;
+
+while(count<=numB)
+{
+    result=result*numA;
+    count++;
+}
 
 Console.WriteLine("Число А в степени числа В = " + result);
