@@ -5,17 +5,16 @@
 int [] array = new int[4];
 int size = array.Length;
 
-// int count_chet = 0;
-// int count_nechet = 0;
+int SumNechet = 0;
     
 for(int i=0;i<size;i++)
 {
-   =new Random().Next(100,1000);
+   array[i]=new Random().Next(100,1000);
    if (array[i]%2>0)
     {
-    array[i]++;
+    SumNechet+=array[i];
     }
 }
 
 Console.WriteLine(String.Join("; ",array));
-Console.WriteLine("Количество четных чисел в массиве = " + count);
+Console.WriteLine("Количество четных чисел в массиве = " + SumNechet);
