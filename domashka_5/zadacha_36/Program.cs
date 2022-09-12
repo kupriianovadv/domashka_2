@@ -2,6 +2,7 @@
 // [3, 7, 23, 12] -> 19
 // [-4, -6, 89, 6] -> 0
 
+
 int [] array = new int[4];
 int size = array.Length;
 
