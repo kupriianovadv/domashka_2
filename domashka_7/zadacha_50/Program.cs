@@ -14,7 +14,7 @@ int columns = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine();
 Console.WriteLine("Массив: ");
 
-double [,] matrix =new double[rows, columns];
+int [,] matrix =new int[rows, columns];
 
 for(int i=0; i<matrix.GetLength(0); i++)
 {
@@ -36,4 +36,6 @@ if(rows < rowNum || columns < columnNum)
   Console.WriteLine("Такой позиции в массиве нет");
 }
 else
-Console.WriteLine("Значение запрашиваемого элемента: " + matrix[rowNum-1, columnNum-1]);
+{
+    Console.WriteLine("Значение запрашиваемого элемента: " + matrix[rowNum-1, columnNum-1]);
+}
