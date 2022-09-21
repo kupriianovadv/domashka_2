@@ -1,0 +1,15 @@
+C:\Users\dashe\Desktop\Системный анализ\Geekbrains\C#\domashka_8\zadacha_56\obj\Debug\net6.0\zadacha_56.csproj.AssemblyReference.cache
+C:\Users\dashe\Desktop\Системный анализ\Geekbrains\C#\domashka_8\zadacha_56\obj\Debug\net6.0\zadacha_56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dashe\Desktop\Системный анализ\Geekbrains\C#\domashka_8\zadacha_56\obj\Debug\net6.0\zadacha_56.AssemblyInfoInputs.cache
+C:\Users\dashe\Desktop\Системный анализ\Geekbrains\C#\domashka_8\zadacha_56\obj\Debug\net6.0\zadacha_56.AssemblyInfo.cs
+C:\Users\dashe\Desktop\Системный анализ\Geekbrains\C#\domashka_8\zadacha_56\obj\Debug\net6.0\zadacha_56.csproj.CoreCompileInputs.cache
+C:\Users\dashe\Desktop\Системный анализ\Geekbrains\C#\domashka_8\zadacha_56\bin\Debug\net6.0\zadacha_56.exe
+C:\Users\dashe\Desktop\Системный анализ\Geekbrains\C#\domashka_8\zadacha_56\bin\Debug\net6.0\zadacha_56.deps.json
+C:\Users\dashe\Desktop\Системный анализ\Geekbrains\C#\domashka_8\zadacha_56\bin\Debug\net6.0\zadacha_56.runtimeconfig.json
+C:\Users\dashe\Desktop\Системный анализ\Geekbrains\C#\domashka_8\zadacha_56\bin\Debug\net6.0\zadacha_56.dll
+C:\Users\dashe\Desktop\Системный анализ\Geekbrains\C#\domashka_8\zadacha_56\bin\Debug\net6.0\zadacha_56.pdb
+C:\Users\dashe\Desktop\Системный анализ\Geekbrains\C#\domashka_8\zadacha_56\obj\Debug\net6.0\zadacha_56.dll
+C:\Users\dashe\Desktop\Системный анализ\Geekbrains\C#\domashka_8\zadacha_56\obj\Debug\net6.0\refint\zadacha_56.dll
+C:\Users\dashe\Desktop\Системный анализ\Geekbrains\C#\domashka_8\zadacha_56\obj\Debug\net6.0\zadacha_56.pdb
+C:\Users\dashe\Desktop\Системный анализ\Geekbrains\C#\domashka_8\zadacha_56\obj\Debug\net6.0\zadacha_56.genruntimeconfig.cache
+C:\Users\dashe\Desktop\Системный анализ\Geekbrains\C#\domashka_8\zadacha_56\obj\Debug\net6.0\ref\zadacha_56.dll
